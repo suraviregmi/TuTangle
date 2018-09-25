@@ -1,0 +1,43 @@
+
+.right-col {
+	display: none;
+}
+.top-left{
+	float: none;
+}
+.top-right{
+
+}
+
+.nav-item li a{
+	padding:8px;
+	font-size: 10px;
+}
+.main-wrapper-child{
+	width: 100%;
+}
+.main{
+	width: 100%;
+}
+
+.details{
+
+	font-size: 8px;
+}
+.details h2{
+	font-size: 9px;
+}
+.tab-wrapper{
+	background-image: none;
+	background-color: grey;
+}
+.tab{
+	background-image: none;
+	background-color: lightgrey;
+	width: 40%;
+	font-size: 10px;
+}
+.tab.active{
+	background-image: none;
+	background-color: skyblue;
+}

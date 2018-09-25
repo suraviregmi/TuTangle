@@ -1,0 +1,44 @@
+.top-left{
+	margin:15px 15px;
+}
+.tutangle-logo{
+	margin-bottom: 10px;
+}
+.input-search{
+	float: none;
+	margin-left: 0;
+}
+.top-right{
+	float: left;
+	margin: 24px 0 23px 20px;
+/*	margin-top: 30px;*/
+
+}
+.nav-item{
+	width: 100%;
+	margin-left:9px;
+}
+.nav-right{
+	float: none;
+	margin-left: 15px;
+}
+.left-col {
+	display: none;
+}
+
+.main-container-wrapper{
+	background-image:none;
+}
+.main{
+	width: 55.223880597%;
+	margin-left: 15px;
+}
+.middle{
+	float: left;
+	
+	width: 100%;
+}
+.right-col{
+	float: left;
+	margin-left:40px;
+}

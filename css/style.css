@@ -1,0 +1,123 @@
+body{
+	font-family: 'Muli', sans-serif;
+/*	font-family: 'Istok Web', sans-serif;*/
+
+
+}
+.content{
+	font-family: 'Muli', sans-serif;
+}
+
+.username{
+	font-size: 13px;
+	text-align: right;
+	font-weight: bold;
+}
+.top-right {
+	font-size: 10px;
+	text-align: right;
+	font-weight: bold;
+}
+.nav-item , .nav-right{
+	font-size: 12px;
+	font-family: 'Muli', sans-serif;
+}
+.menu-heading h3{
+	font-size: 17px;
+	color: #ffffff;
+	line-height: 42px;
+	font-family: 'Muli', sans-serif;
+}
+.download-list li, .bar-list li , .right-list li{
+	font-size: 12px;
+}
+.friend, .box-invites{
+	color: black;	
+}
+.friend.active , .box-invites.active{
+	color: black;	
+}
+.friend , .box-invites{
+	color: grey;	
+}
+
+.super-tab{
+	text-align: center;
+	font-size: 13px;
+}
+.tab{
+	font-size: 12px;
+	text-align: center;
+}
+.tab.active{
+	color: #ffffff;
+}
+.footer{
+	font-size: 10px;
+	color: white;
+}
+.footer-right{
+	text-align: right;
+}
+.entries-title{
+	font-weight: normal;
+	font-size: 13px;
+}
+.details{
+	font-size: 11px;
+	color: #616161;
+}
+.details h2{
+	color: #000;
+	font-size: 15px;
+	line-height: 20px;
+}
+.details h2 a:hover{
+	color: #474747;
+}
+.details a{
+	font-weight: 600;
+}
+.author, .from-topic-box, .blue-alert{
+	color: #309FD0;
+	transition: color 0.7s ease;
+}
+.author:hover, .from-topic-box:hover, .blue-alert:hover{
+	color: #6EBBDE;
+}
+.red-alert{
+	color: #D53F1A;
+}
+.red-alert:hover{
+	color: pink;
+}
+.subscribe{
+	color : #709521;
+	font-weight: bold;
+}
+.subscribe:hover{
+	color: #9AB463;
+}
+h3, h2, h1{
+	font-weight: normal;
+}
+.input{
+	font-size: 9px;
+	color: #282828;
+}
+.button{
+	font-size: 9px;
+	color: #fff;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+h1{
+	color: #383838;
+}
+
+.menu-content-icon{
+	color:#292929;
+	font-size: 5px;
